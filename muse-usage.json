@@ -1,10 +1,10 @@
 {
   "plan": "Power",
-  "pct_used": 26,
-  "pct_left": 74,
+  "pct_used": 27,
+  "pct_left": 73,
   "reset_at": "2026-11-15T21:13:00+08:00",
   "reset_sgt": "Nov 15 at 9:13 PM +08",
   "additional_tokens_pct_used": 0,
   "additional_tokens_left": "31B",
-  "updated_at": "2026-11-09T23:03:59.597613+08:00"
+  "updated_at": "2026-11-09T23:18:48.707934+08:00"
 }
